@@ -1,0 +1,40 @@
+/* School card styling */
+.school-card {
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .school-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .school-image {
+    width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+  border-radius: 50%; /* Makes the image circular */
+  object-fit: cover; /* Ensures the image covers the entire space */
+  margin-right: 20px; /* Adds some spacing between the image and text */
+  }
+  
+  .school-info {
+    padding: 20px;
+  }
+  
+  .school-name {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .school-address {
+    font-size: 1rem;
+    color: #666;
+  }
+ 
+
+
+
