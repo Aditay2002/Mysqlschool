@@ -30,7 +30,7 @@ Start the server
 ```bash
   npm  start
 ```
-## Features Implemented according to Assignment 
+## Features Implemented developing the Project 
 
 1.Created Database which stores the school data as expected.
 
@@ -46,6 +46,7 @@ Start the server
 5 Created Api which used to insert data and Fetch all school data which includes MySql Queries.
 
 6 This also handles multipart/form-data using Multer. beacuse images selection from desktop is FormData and Express.js does not handle it.
+
 7. Some React hooks are also used in managing the state of input feilds of the Form i.e UseState
 
 ## 🚀 About Me
